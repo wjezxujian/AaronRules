@@ -20,6 +20,12 @@ DOMAIN-SUFFIX,bilivideo.com,CMedia
 DOMAIN-SUFFIX,hdslb.com,CMedia
 DOMAIN-SUFFIX,im9.com,CMedia
 
+#> Douyu
+USER-AGENT,*douyu*,CMedia
+DOMAIN-KEYWORD,douyu,CMedia
+DOMAIN-SUFFIX,douyu.tv,CMedia
+DOMAIN-SUFFIX,douyu.com,CMedia
+
 # > iQiyi
 USER-AGENT,QIYI*,CMedia
 USER-AGENT,iQiYi*,CMedia
