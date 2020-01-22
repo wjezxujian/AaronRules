@@ -1,0 +1,83 @@
+# > AcFun
+USER-AGENT,AcFun*,CMedia
+DOMAIN-SUFFIX,acfun.cn,CMedia
+DOMAIN-SUFFIX,acfun.com,CMedia
+DOMAIN-SUFFIX,acfun.tv,CMedia
+DOMAIN-SUFFIX,aixifan.com,CMedia
+
+# > Bilibili
+USER-AGENT,*bili*,CMedia
+DOMAIN-KEYWORD,bilibili,CMedia
+DOMAIN-SUFFIX,acg.tv,CMedia
+DOMAIN-SUFFIX,acgvideo.com,CMedia
+DOMAIN-SUFFIX,b23.tv,CMedia
+DOMAIN-SUFFIX,biliapi.com,CMedia
+DOMAIN-SUFFIX,biliapi.net,CMedia
+DOMAIN-SUFFIX,bilibili.com,CMedia
+DOMAIN-SUFFIX,biligame.com,CMedia
+DOMAIN-SUFFIX,biligame.net,CMedia
+DOMAIN-SUFFIX,bilivideo.com,CMedia
+DOMAIN-SUFFIX,hdslb.com,CMedia
+DOMAIN-SUFFIX,im9.com,CMedia
+
+# > iQiyi
+USER-AGENT,QIYI*,CMedia
+USER-AGENT,iQiYi*,CMedia
+USER-AGENT,PPStream*,CMedia
+USER-AGENT,QYPlayer*,CMedia
+DOMAIN-SUFFIX,iqiyi.com,CMedia
+DOMAIN-SUFFIX,iqiyipic.com,CMedia
+DOMAIN-SUFFIX,qy.net,CMedia
+DOMAIN-SUFFIX,71.am,CMedia
+
+# > Kugou & Kuwo
+DOMAIN-SUFFIX,kugou.com,CMedia
+USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*,CMedia
+DOMAIN-SUFFIX,kuwo.cn,CMedia
+DOMAIN-SUFFIX,koowo.com,CMedia
+
+# > Letv
+DOMAIN-SUFFIX,api.mob.app.letv.com,CMedia
+DOMAIN-SUFFIX,letv.com,CMedia
+
+# > MGTV
+USER-AGENT,MGTV*,CMedia
+DOMAIN-SUFFIX,hunantv.com,CMedia
+DOMAIN-SUFFIX,mgtv.com,CMedia
+
+# > Migu
+USER-AGENT,MiguVideo*,CMedia
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91,CMedia
+DOMAIN-SUFFIX,cmvideo.cn,CMedia
+DOMAIN-SUFFIX,migu.cn,CMedia
+DOMAIN-SUFFIX,miguvideo.com,CMedia
+
+# > MOOMusic
+USER-AGENT,MOO*,CMedia
+USER-AGENT,TencentMidasConnect*,CMedia
+
+# > QQMusic
+USER-AGENT,QQ%e9%9f%b3%e4%b9%90*,CMedia
+USER-AGENT,QQMusic*,CMedia
+DOMAIN-SUFFIX,*music.qq.com,CMedia
+DOMAIN-SUFFIX,y.qq.com,CMedia
+DOMAIN,aqqmusic.tc.qq.com,CMedia
+
+# > Tencent Video
+USER-AGENT,live4iphone*,CMedia
+USER-AGENT,qqlive4iphone*,CMedia
+USER-AGENT,TencentMidasConnect*,CMedia
+DOMAIN-SUFFIX,v.qq.com,CMedia
+DOMAIN-SUFFIX,video.qq.com,CMedia
+
+# > Xiami Music
+USER-AGENT,xiami*,CMedia
+DOMAIN-SUFFIX,xiami.com,CMedia
+DOMAIN-SUFFIX,xiami.net,CMedia
+
+# > Youku
+USER-AGENT,Youku*,CMedia
+USER-AGENT,%E4%BC%98%E9%85%B7*,CMedia
+DOMAIN-SUFFIX,soku.com,CMedia
+DOMAIN-SUFFIX,youku.com,CMedia
+DOMAIN-SUFFIX,ykimg.com,CMedia
