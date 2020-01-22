@@ -253,15 +253,15 @@ DOMAIN-SUFFIX,bfshan.cn,AdBlock
 
 # REJECT
 # > Umeng
-HOST,alog.umeng.co,AdBlock
-HOST,alog.umeng.com,AdBlock
-HOST,alogs.umeng.com,AdBlock
-HOST,alog.umengcloud.com,AdBlock
-HOST,alogs.umengcloud.com,AdBlock
-HOST,ar.umeng.com,AdBlock
-HOST,plbslog.umeng.com,AdBlock
-HOST,ulogs.umeng.com,AdBlock
-HOST,ulogs.umengcloud.com,AdBlock
+DOMAIN,alog.umeng.co,AdBlock
+DOMAIN,alog.umeng.com,AdBlock
+DOMAIN,alogs.umeng.com,AdBlock
+DOMAIN,alog.umengcloud.com,AdBlock
+DOMAIN,alogs.umengcloud.com,AdBlock
+DOMAIN,ar.umeng.com,AdBlock
+DOMAIN,plbslog.umeng.com,AdBlock
+DOMAIN,ulogs.umeng.com,AdBlock
+DOMAIN,ulogs.umengcloud.com,AdBlock
 
 # > Client
 DOMAIN-KEYWORD,admaster,AdBlock
@@ -1292,7 +1292,7 @@ DOMAIN-SUFFIX,adsgroup.qq.com,AdBlock
 DOMAIN-SUFFIX,adshare.freedocast.com,AdBlock
 DOMAIN-SUFFIX,adshmct.qq.com,AdBlock
 DOMAIN-SUFFIX,adshmmsg.qq.com,AdBlock
-DOMAIN-SUFFIX,adshost2.com,AdBlock
+DOMAIN-SUFFIX,adsDOMAIN2.com,AdBlock
 DOMAIN-SUFFIX,adshow.58.com,AdBlock
 DOMAIN-SUFFIX,adshow.it168.com,AdBlock
 DOMAIN-SUFFIX,adshows.21cn.com,AdBlock
@@ -1799,7 +1799,7 @@ DOMAIN-SUFFIX,banner.europacasino.com,AdBlock
 DOMAIN-SUFFIX,banner.itweb.co.za,AdBlock
 DOMAIN-SUFFIX,banner.telefragged.com,AdBlock
 DOMAIN-SUFFIX,banner.titancasino.com,AdBlock
-DOMAIN-SUFFIX,banner1.pornhost.com,AdBlock
+DOMAIN-SUFFIX,banner1.pornDOMAIN.com,AdBlock
 DOMAIN-SUFFIX,banners.beevpn.com,AdBlock
 DOMAIN-SUFFIX,banners.beted.com,AdBlock
 DOMAIN-SUFFIX,banners.cams.com,AdBlock
@@ -1955,7 +1955,7 @@ DOMAIN-SUFFIX,bllbaby.cn,AdBlock
 DOMAIN-SUFFIX,blogad01.myweb.hinet.net,AdBlock
 DOMAIN-SUFFIX,blogad02.myweb.hinet.net,AdBlock
 DOMAIN-SUFFIX,bluekai.com,AdBlock
-DOMAIN-SUFFIX,bluhostedbanners.blucigs.com,AdBlock
+DOMAIN-SUFFIX,bluDOMAINedbanners.blucigs.com,AdBlock
 DOMAIN-SUFFIX,bmg.wnbfw.com,AdBlock
 DOMAIN-SUFFIX,bmp.ali213.net,AdBlock
 DOMAIN-SUFFIX,bmp1.ali213.net,AdBlock
@@ -2562,7 +2562,7 @@ DOMAIN-SUFFIX,creative.jdkic.com,AdBlock
 DOMAIN-SUFFIX,creative.ltheanine.cn,AdBlock
 DOMAIN-SUFFIX,creatives.cliphunter.com,AdBlock
 DOMAIN-SUFFIX,creatives.ftchinese.com,AdBlock
-DOMAIN-SUFFIX,creatives.inmotionhosting.com,AdBlock
+DOMAIN-SUFFIX,creatives.inmotionDOMAINing.com,AdBlock
 DOMAIN-SUFFIX,creatives.livejasmin.com,AdBlock
 DOMAIN-SUFFIX,creatives.pichunter.com,AdBlock
 DOMAIN-SUFFIX,creatives.summitconnect.co.uk,AdBlock
@@ -3499,7 +3499,7 @@ DOMAIN-SUFFIX,files2.sogou.com,AdBlock
 DOMAIN-SUFFIX,fimserve.ign.com,AdBlock
 DOMAIN-SUFFIX,findicons.com,AdBlock
 DOMAIN-SUFFIX,finding.hardwareheaven.com,AdBlock
-DOMAIN-SUFFIX,findnsave.idahostatesman.com,AdBlock
+DOMAIN-SUFFIX,findnsave.idaDOMAINatesman.com,AdBlock
 DOMAIN-SUFFIX,finead.cn,AdBlock
 DOMAIN-SUFFIX,fips.uimserv.net,AdBlock
 DOMAIN-SUFFIX,firefang.cn,AdBlock
@@ -3851,7 +3851,7 @@ DOMAIN-SUFFIX,hao549.com,AdBlock
 DOMAIN-SUFFIX,hao61.net,AdBlock
 DOMAIN-SUFFIX,hao916.com,AdBlock
 DOMAIN-SUFFIX,hao934.com,AdBlock
-DOMAIN-SUFFIX,haoghost.com,AdBlock
+DOMAIN-SUFFIX,haogDOMAIN.com,AdBlock
 DOMAIN-SUFFIX,haohaowan8.com,AdBlock
 DOMAIN-SUFFIX,haolew.com,AdBlock
 DOMAIN-SUFFIX,haoshengtoys.com,AdBlock
@@ -3941,7 +3941,7 @@ DOMAIN-SUFFIX,hnyny.com,AdBlock
 DOMAIN-SUFFIX,hoisin.coocaatv.com,AdBlock
 DOMAIN-SUFFIX,home520.com,AdBlock
 DOMAIN-SUFFIX,hoplink.ksosoft.com,AdBlock
-DOMAIN-SUFFIX,hosting.miarroba.info,AdBlock
+DOMAIN-SUFFIX,DOMAINing.miarroba.info,AdBlock
 DOMAIN-SUFFIX,hot.browser.miui.com,AdBlock
 DOMAIN-SUFFIX,hot.m.shouji.360tpcdn.com,AdBlock
 DOMAIN-SUFFIX,hot-mob.com,AdBlock
@@ -5738,7 +5738,7 @@ DOMAIN-SUFFIX,oas.skyscanner.net,AdBlock
 DOMAIN-SUFFIX,oasc07.citywire.co.uk,AdBlock
 DOMAIN-SUFFIX,oascentral.abclocal.go.com,AdBlock
 DOMAIN-SUFFIX,oascentral.chron.com,AdBlock
-DOMAIN-SUFFIX,oascentral.hosted.ap.org,AdBlock
+DOMAIN-SUFFIX,oascentral.DOMAINed.ap.org,AdBlock
 DOMAIN-SUFFIX,oascentral.lycos.com,AdBlock
 DOMAIN-SUFFIX,oascentral.newsmax.com,AdBlock
 DOMAIN-SUFFIX,oascentral.sina.com,AdBlock
