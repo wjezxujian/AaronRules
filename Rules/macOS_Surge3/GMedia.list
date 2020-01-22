@@ -1,0 +1,134 @@
+# > ABC
+DOMAIN-SUFFIX,edgedatg.com,GMedia
+DOMAIN-SUFFIX,go.com,GMedia
+
+# > Abema TV
+USER-AGENT,AbemaTV*,GMedia
+DOMAIN-SUFFIX,abema.io,GMedia
+DOMAIN-SUFFIX,akamaized.net,GMedia
+DOMAIN-SUFFIX,ameba.jp,GMedia
+DOMAIN-SUFFIX,hayabusa.io,GMedia
+
+# > Amazon Prime Video
+USER-AGENT,InstantVideo.US*,GMedia
+USER-AGENT,Prime%20Video*,GMedia
+DOMAIN-SUFFIX,aiv-cdn.net,GMedia
+DOMAIN-SUFFIX,amazonaws.com,GMedia
+DOMAIN-SUFFIX,amazonvideo.com,GMedia
+DOMAIN-SUFFIX,llnwd.net,GMedia
+
+# > Bahamut
+USER-AGENT,Anime*,GMedia
+DOMAIN-SUFFIX,bahamut.com.tw,GMedia
+DOMAIN-SUFFIX,gamer.com.tw,GMedia
+DOMAIN-SUFFIX,hinet.net,GMedia
+
+# > BBC
+USER-AGENT,BBCiPlayer*,GMedia
+DOMAIN-KEYWORD,bbcfmt,GMedia
+DOMAIN-KEYWORD,co.uk,GMedia
+DOMAIN-KEYWORD,uk-live,GMedia
+DOMAIN-SUFFIX,bbc.co,GMedia
+DOMAIN-SUFFIX,bbc.co.uk,GMedia
+DOMAIN-SUFFIX,bbc.com,GMedia
+DOMAIN-SUFFIX,bbci.co,GMedia
+DOMAIN-SUFFIX,bbci.co.uk,GMedia
+
+# > CHOCO TV
+USER-AGENT,TwDramas*,GMedia
+DOMAIN-SUFFIX,chocotv.com.tw,GMedia
+
+# > Disney Plus
+USER-AGENT,Disney*,GMedia
+DOMAIN-SUFFIX,disneyplus.com,GMedia
+DOMAIN-SUFFIX,disney-plus.net,GMedia
+DOMAIN-SUFFIX,dssott.com,GMedia
+DOMAIN-SUFFIX,bamgrid.com,GMedia
+DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,GMedia
+DOMAIN,cdn.registerdisney.go.com,GMedia
+
+# > Now E
+USER-AGENT,PCCW*,GMedia
+DOMAIN-KEYWORD,nowe,GMedia
+DOMAIN,bcbolthboa-a.akamaihd.net,GMedia
+DOMAIN-SUFFIX,nowe.com,GMedia
+DOMAIN-SUFFIX,youboranqs01.com,GMedia
+
+# > Epicgames
+DOMAIN-KEYWORD,epicgames,GMedia
+DOMAIN-SUFFIX,helpshift.com,GMedia
+
+# > Fox+
+USER-AGENT,FOX%20NOW*,GMedia
+USER-AGENT,FOXPlus*,GMedia
+DOMAIN-KEYWORD,foxplus,GMedia
+DOMAIN-SUFFIX,config.fox.com,GMedia
+DOMAIN-SUFFIX,emome.net,GMedia
+DOMAIN-SUFFIX,fox.com,GMedia
+DOMAIN-SUFFIX,foxdcg.com,GMedia
+DOMAIN-SUFFIX,foxnow.com,GMedia
+DOMAIN-SUFFIX,foxplus.com,GMedia
+DOMAIN-SUFFIX,foxplay.com,GMedia
+DOMAIN-SUFFIX,ipinfo.io,GMedia
+DOMAIN-SUFFIX,mstage.io,GMedia
+DOMAIN-SUFFIX,now.com,GMedia
+DOMAIN-SUFFIX,theplatform.com,GMedia
+DOMAIN-SUFFIX,urlload.net,GMedia
+
+# > HBO & HBO Go
+USER-AGENT,HBO%20NOW*,GMedia
+DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,GMedia
+DOMAIN-SUFFIX,hbo.com,GMedia
+DOMAIN-SUFFIX,hboasia.com,GMedia
+DOMAIN-SUFFIX,hbogo.com,GMedia
+DOMAIN-SUFFIX,hbogoasia.com,GMedia
+DOMAIN-SUFFIX,hbogoasia.hk,GMedia
+
+# > Hulu
+USER-AGENT,Hulu*,GMedia
+DOMAIN-SUFFIX,happyon.jp,GMedia
+DOMAIN-SUFFIX,hulu.com,GMedia
+DOMAIN-SUFFIX,hulu.jp,GMedia
+DOMAIN-SUFFIX,huluim.com,GMedia
+DOMAIN-SUFFIX,hulustream.com,GMedia
+
+# > Imkan
+DOMAIN-SUFFIX,imkan.tv,GMedia
+
+# > JOOX
+USER-AGENT,WeMusic*,GMedia
+USER-AGENT,JOOX*,GMedia
+DOMAIN-SUFFIX,joox.com,GMedia
+
+# > MytvSUPER
+USER-AGENT,mytv*,GMedia
+DOMAIN-KEYWORD,nowtv100,GMedia
+DOMAIN-KEYWORD,rthklive,GMedia
+DOMAIN-SUFFIX,mytvsuper.com,GMedia
+DOMAIN-SUFFIX,tvb.com,GMedia
+
+# > Pandora
+DOMAIN-SUFFIX,pandora.com,GMedia
+
+# > Sky GO
+USER-AGENT,skygo*,GMedia
+DOMAIN-SUFFIX,sky.com,GMedia
+DOMAIN-SUFFIX,skygo.co.nz,GMedia
+
+# > SoundCloud
+USER-AGENT,SoundCloud*,GMedia
+
+# > Spotify
+USER-AGENT,Spotify*,GMedia
+DOMAIN-SUFFIX,pscdn.co,GMedia
+DOMAIN-SUFFIX,scdn.co,GMedia
+DOMAIN-SUFFIX,spoti.fi,GMedia
+DOMAIN-SUFFIX,spotify.com,GMedia
+IP-CIDR,35.186.224.47/32,GMedia
+
+# > viuTV
+USER-AGENT,ViuTV*,GMedia
+DOMAIN-SUFFIX,cloudfront.net,GMedia
+DOMAIN-SUFFIX,viu.com,GMedia
+DOMAIN-SUFFIX,viu.tv,GMedia
+DOMAIN-SUFFIX,viu.now.com,GMedia
