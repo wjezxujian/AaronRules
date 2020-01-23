@@ -17,6 +17,7 @@ USER-AGENT,Maps*,Apple
 USER-AGENT,TestFlight*,Apple
 DOMAIN-SUFFIX,apple.co,Apple
 DOMAIN-SUFFIX,apple.com,Apple
+DOMAIN-SUFFIX,apple.com.cn,Apple
 DOMAIN-SUFFIX,apple-cloudkit.com,Apple
 DOMAIN-SUFFIX,appstore.com,Apple
 DOMAIN-SUFFIX,cdn-apple.com,Apple
